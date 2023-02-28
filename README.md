@@ -27,7 +27,7 @@ A project made with the Raylib library, simulating smoothed-particle hydrodynami
 - CTRL+Shift+Z: reapply the operation that was just undone
 
 ## Credits
-- [EpsilonsQc](https://github.com/EpsilonsQc) - various optimizations to improve performance, grid to visualize the number of particles in each cell, command pattern (undo/redo)
+- [EpsilonsQc](https://github.com/EpsilonsQc) - various optimizations to improve performance, grid to visualize the number of particles in each cell, command pattern implementation (undo/redo)
 - Smoothed-particle hydrodynamics simulation, based on Matthias Müller paper
   - https://matthias-research.github.io/pages/publications/sca03.pdf
 - The code is derived from implementation under MIT license by Lucas V. Schuermann
