@@ -17,8 +17,8 @@ A project made with the Raylib library, simulating smoothed-particle hydrodynami
 
 ## Controls
 - Arrows (up/down/left/right): change direction of gravity
-- Numbers 1 to 9: restart the simulation with 1 to 5000 particles
 - Space bar: makes the fluid “explode” giving a random speed to the particles
+- Numbers 1 to 9: restart the simulation with 1 to 5000 particles
 - A, S, D keys: change the simulation display mode
 - Right click: add a block of particles
 - Left click: add a single particle
