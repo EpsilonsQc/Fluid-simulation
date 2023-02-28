@@ -5,7 +5,7 @@
 ---
 
 ## Introduction
-A project made with the Raylib library, simulating smoothed-particle hydrodynamics. This was developed in the midst of my study in video game programming at College of Bois-de-Boulogne. This is one of the project made within the "Advanced programming" course (session 4 of 5).
+A project made with the Raylib library, simulating smoothed-particle hydrodynamics. It was developed in the midst of my study in video game programming at College of Bois-de-Boulogne. This is one of the project made within the "Advanced programming" course (session 4 of 5).
 
 ## F.A.Q.
 
