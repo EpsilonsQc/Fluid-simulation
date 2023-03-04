@@ -16,15 +16,15 @@ A project made with the Raylib library, simulating smoothed-particle hydrodynami
 - From October 17th 2022 to October 31th 2022 [14 days period]
 
 ## Controls
-- Arrows (up/down/left/right): change direction of gravity
-- Space bar: makes the fluid “explode” giving a random speed to the particles
-- Numbers 1 to 9: restart the simulation with 1 to 5000 particles
-- A, S, D keys: change the simulation display mode
-- Right click: add a block of particles
-- Left click: add a single particle
-- C keys: change the color of the particles to a color chosen at random
-- CTRL+Z: undo the last operation made
-- CTRL+Shift+Z: reapply the operation that was just undone
+- Arrows (up/down/left/right) : change direction of gravity
+- Space bar : makes the fluid “explode” giving a random speed to the particles
+- Numbers 1 to 9 : restart the simulation with 1 to 5000 particles
+- A, S, D : change the simulation display mode
+- Left Mouse Button : add a single particle
+- Right Mouse Button : add a block of particles
+- C : change the color of the particles to a color chosen at random
+- CTRL+Z : undo the last operation made
+- CTRL+Shift+Z : reapply the operation that was just undone
 
 ## Credits
 - [EpsilonsQc](https://github.com/EpsilonsQc) - various optimizations to improve performance, grid to visualize the number of particles in each cell, command pattern implementation (undo/redo)
